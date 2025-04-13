@@ -1,0 +1,39 @@
+{
+  "El origen del fuego": [
+    {
+      "texto": "Hace mucho tiempo, los Sikuani vivían sin fuego. El mundo era frío y oscuro.",
+      "img": "https://raw.githubusercontent.com/dimasbraca/latradicionsikuani/main/fuego1.jpg",
+      "audio": "https://raw.githubusercontent.com/dimasbraca/latradicionsikuani/main/fuego1.mp3",
+      "opciones": [
+        "Buscar fuego",
+        "Pedir ayuda a los espíritus"
+      ]
+    },
+    {
+      "texto": "Un valiente joven decidió buscar el fuego escondido en lo alto de una montaña.",
+      "img": "https://raw.githubusercontent.com/dimasbraca/latradicionsikuani/main/fuego2.jpg",
+      "audio": "https://raw.githubusercontent.com/dimasbraca/latradicionsikuani/main/fuego2.mp3",
+      "opciones": [
+        "Subir la montaña",
+        "Regresar al poblado"
+      ]
+    },
+    {
+      "texto": "Después de una travesía difícil, el joven encontró a un jaguar guardián del fuego.",
+      "img": "https://raw.githubusercontent.com/dimasbraca/latradicionsikuani/main/fuego3.jpg",
+      "audio": "https://raw.githubusercontent.com/dimasbraca/latradicionsikuani/main/fuego3.mp3",
+      "opciones": [
+        "Engañar al jaguar",
+        "Luchar contra el jaguar"
+      ]
+    },
+    {
+      "texto": "El joven logró vencer al jaguar y llevó el fuego al pueblo. Así nació el calor y la luz.",
+      "img": "https://raw.githubusercontent.com/dimasbraca/latradicionsikuani/main/fuego4.jpg",
+      "audio": "https://raw.githubusercontent.com/dimasbraca/latradicionsikuani/main/fuego4.mp3",
+      "opciones": [
+        "Terminar la historia"
+      ]
+    }
+  ]
+}
